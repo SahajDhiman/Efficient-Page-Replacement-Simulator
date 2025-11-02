@@ -41,4 +41,4 @@ This project provides a hands-on way to explore how operating systems optimize m
 
 ---
 
-© 2025 — Project by *[Your Names Here]*
+© 2025 — Project by Sahaj Dhiman (49) and Kartik Grewal (23)
